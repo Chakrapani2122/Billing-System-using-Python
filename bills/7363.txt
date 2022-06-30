@@ -1,0 +1,18 @@
+	Welcome Webcode Retail
+ Bill Number:7363
+Customer Name:Chakrapani
+Phone Number9392527942
+================================
+Products		QTY		Price
+ Sanitizer		1		2
+ Hand Gloves		3		36
+ Rice		5		50
+ Flour		2		16
+ Sprite		1		10
+ Mazza		2		20
+ Fanta		0		40
+ Medical Tax			Rs. 1.9
+ Grocery Tax			Rs. 330.0
+ Cold Drinks Tax			Rs. 7.0
+ Total Bil:			 Rs.512.9
+--------------------------------

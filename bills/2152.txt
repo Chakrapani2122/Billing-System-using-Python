@@ -1,0 +1,30 @@
+	Welcome Infinite Retail
+ Bill Number:2152
+Customer Name:Hello
+Phone Number1234567890
+================================
+Products		QTY		Price
+ Sanitizer		1		30
+ Mask		1		10
+ Hand Gloves		1		20
+ Dettol		1		50
+ Newsprin		1		10
+ Thermal Gun		1		80
+ Rice		1		500
+ Food Oil		1		110
+ Wheat		1		60
+ Daal		1		30
+ Flour		1		35
+ Maggi		1		20
+ Sprite		1		110
+ Limka		1		55
+ Mazza		1		45
+ Coke		1		60
+ Fanta		1		35
+ Mountain Duo		1		20
+--------------------------------
+ Medical Tax			Rs. 10.0
+ Grocery Tax			Rs. 3775.0
+ Cold Drinks Tax			Rs. 32.5
+ Total Bil:			 Rs.5097.5
+--------------------------------
