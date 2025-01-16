@@ -1,5 +1,5 @@
 import streamlit as st
-import random
+import random2
 import os
 
 # ============main============================
