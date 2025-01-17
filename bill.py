@@ -54,7 +54,7 @@ class Bill_App:
         self.cold_drinks_price = ""
         self.c_name = ""
         self.c_phone = ""
-        self.bill_no = str(random.randint(1000, 9999))
+        self.bill_no = str(random2.randint(1000, 9999))
         self.search_bill = ""
         self.medical_tax = ""
         self.grocery_tax = ""
@@ -185,6 +185,7 @@ class Bill_App:
         for key in st.session_state.keys():
             del st.session_state[key]
         st.experimental_set_query_params()
+        st.experimental_rerun()
 
 if __name__ == "__main__":
     Bill_App()
