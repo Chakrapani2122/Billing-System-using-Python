@@ -185,7 +185,6 @@ class Bill_App:
         for key in st.session_state.keys():
             del st.session_state[key]
         st.experimental_set_query_params()
-        st.experimental_rerun()
 
 if __name__ == "__main__":
     Bill_App()
